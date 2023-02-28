@@ -35,6 +35,9 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/ShanuA123/BitFitProject5/blob/master/Project5_GIF.gif'/>
 GIF showing orientational responsivity
 <img src='https://github.com/ShanuA123/BitFitProject5/blob/master/Project5_Landscape_GIF.gif'/>
+GIF showing items are still there when application is restarted.
+<img src='https://github.com/ShanuA123/BitFitProject5/blob/master/Project5_Restart_GIF.gif'/>
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
 <!-- Recommended tools:
